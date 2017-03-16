@@ -1,6 +1,7 @@
 # tugas2bigdata
 Tugas ke 2 Big data, installasi spark , dan jupyter. 
 
-Oleh : Albert Bungaran Manik -5113100036
-       Arfidiantoro          -51131000179
-       Agung                 -51131000108
+Oleh : <br />
+Albert Bungaran Manik -  5113100036<br />
+Arfidiantoro          -  51131000179<br />
+Agung                 -  51131000108<br />
