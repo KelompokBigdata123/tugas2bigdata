@@ -1,5 +1,5 @@
-#TUGAS BIG DATA
-Kelompok 5 Big Data  
+TUGAS BIG DATA
+Kelompok 5  
 
 Oleh : <br />
 Albert Bungaran Manik -  5113100036<br />
