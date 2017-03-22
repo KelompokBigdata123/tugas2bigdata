@@ -1,5 +1,5 @@
-# tugas2bigdata
-Tugas ke 2 Big data, installasi spark , dan jupyter. 
+#TUGAS BIG DATA
+Kelompok 5 Big Data  
 
 Oleh : <br />
 Albert Bungaran Manik -  5113100036<br />
