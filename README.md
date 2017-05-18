@@ -15,7 +15,11 @@ Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e2
 Exercise 7
 Oleh : <br />
 <b>Albert Bungaran M            -  5113100036 </b><br />
-Link:<br />
+No1.Twitter Streaming 
+Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4979892261316769/3607756072448343/233980609187343/latest.html<br />
+No2.Structured Streaming 
+Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4979892261316769/2162506364711709/233980609187343/latest.html
+<br />
 
 <b>Arfian Fidiantoro            -  51131000179</b><br />
 7.1 Twitter Streaming
