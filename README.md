@@ -20,8 +20,8 @@ Link:
 TUGAS INDIVIDU
 
 TUGAS BIG DATA
-Kelompo
-<br /><br />k 5  
+Kelompok 5
+<br /><br /> 
 
 Oleh : 
 <b>Albert                     -  5113100036 </b><br />
