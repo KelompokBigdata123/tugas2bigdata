@@ -14,8 +14,10 @@ Link  : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902
 Link  : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/890073964652929/264627087197433/1419898616488195/latest.html<br />
 
 <b>Agung                        -  51131000108</b><br />
-Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/712347335692947/3446843347593254/2609332159531244/latest.html
-
+7.1 Twitter Streaming
+Link  : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/712347335692947/3446843347593254/2609332159531244/latest.html<br />
+7.2 Structured Streaming
+Link  : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/712347335692947/3446843347593254/2609332159531244/latest.html<br />
 <br /><br />
 TUGAS INDIVIDU
 
