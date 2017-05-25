@@ -1,7 +1,10 @@
-Exercise 8
-<br /><br /> 
-
-Oleh : 
+<b>TUGAS INDIVIDU</b>
+<b>TUGAS BIG DATA</b>
+<b>Kelompok 5</b>
+<br /><br />
+<b>Exercise 8</b>
+<br />
+Oleh : <br />
 <b>Albert Bungaran M                      -  5113100036 </b><br />
 Link :  <br />
 
@@ -11,7 +14,7 @@ Link : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e
 <b>Agung                                  -  51131000108</b><br />
 Link: <br />
 
-Exercise 7
+<b>Exercise 7</b><br />
 Oleh : <br />
 <b>Albert Bungaran M            -  5113100036 </b><br />
 No1.Twitter Streaming 
@@ -31,14 +34,9 @@ Link  : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902
 Link  : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/712347335692947/3446843347593254/2609332159531244/latest.html<br />
 7.2 Structured Streaming
 Link  : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/712347335692947/3446843347593254/2609332159531244/latest.html<br />
-<br /><br />
-TUGAS INDIVIDU
 
-TUGAS BIG DATA
-Kelompok 5
-<br /><br /> 
-
-Oleh : 
+<b>Exercise 5</b><br />
+Oleh : <br />
 <b>Albert                     -  5113100036 </b><br />
 Link :  https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4979892261316769/4055547832123278/233980609187343/latest.html<br />
 
