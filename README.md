@@ -1,5 +1,5 @@
 <b>TUGAS INDIVIDU</b>
-<b>TUGAS BIG DATA</b>
+<b>TUGAS BIG DATA</b><br />
 <b>Kelompok 5</b>
 <br /><br />
 <b>Exercise 8</b>
