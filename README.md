@@ -6,7 +6,7 @@
 <br />
 Oleh : <br />
 <b>Albert Bungaran M                      -  5113100036 </b><br />
-Link :  <br />
+Link : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4979892261316769/852663572685226/233980609187343/latest.html <br />
 
 <b>Arfian Fidiantoro                      -  51131000179</b><br />
 Link : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/890073964652929/1163956083390820/1419898616488195/latest.html<br />
